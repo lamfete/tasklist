@@ -1,0 +1,24 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "List of task",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello, world!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamfete/tasklist.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tasklist",
+    "project"
+  ],
+  "author": "lamfete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamfete/tasklist/issues"
+  },
+  "homepage": "https://github.com/lamfete/tasklist#readme"
+}
